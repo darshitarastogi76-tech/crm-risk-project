@@ -25,7 +25,7 @@ This project is part of a two-phase learning goal:
 
 ## 💼 About the Creator
 Darshita Rastogi  
-Economics (Hons.) student at Kamala Nehru College, University of Delhi  
+Economics (Hons.) second year student at Kamala Nehru College, University of Delhi  
 Aspiring risk management and project management professional
 
 This dashboard is part of my Internship Portfolio 2025.  

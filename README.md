@@ -15,7 +15,7 @@ It was created to showcase practical skills in data structuring, dashboarding, a
 
 ## 🧰 Built With
 - Microsoft Excel — for dashboarding, pivot tables, conditional formatting
-- Google Sheets — for initial mock data (if used)
+- Mockaroo — for initial mock data
 - GitHub — for version control and project sharing
 - 
 ## 🔄 What’s Next?
